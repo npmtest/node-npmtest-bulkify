@@ -1,4 +1,7 @@
-# test coverage for  [bulkify (v1.4.2)](https://github.com/substack/bulkify)  [![npm package](https://img.shields.io/npm/v/npmtest-bulkify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bulkify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bulkify.svg)](https://travis-ci.org/npmtest/node-npmtest-bulkify)
+# npmtest-bulkify
+
+#### basic test coverage for  [bulkify (v1.4.2)](https://github.com/substack/bulkify)  [![npm package](https://img.shields.io/npm/v/npmtest-bulkify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bulkify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bulkify.svg)](https://travis-ci.org/npmtest/node-npmtest-bulkify)
+
 #### transform inline bulk-require calls into statically resolvable require maps
 
 [![NPM](https://nodei.co/npm/bulkify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bulkify)
